@@ -1,2 +1,4 @@
 Dog can go woof woof
 Dog can eat meat
+Dog can bite stranger
+Dog can fetch ball
