@@ -1,2 +1,3 @@
 Dog can go woof woof
 Dog can eat meat
+Dog can sleep 24 hours
