@@ -1,1 +1,2 @@
 Dog can go woof woof
+Dog can eat meat
